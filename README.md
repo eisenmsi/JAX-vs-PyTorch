@@ -1,1 +1,1 @@
-# JAX-vs-PyTorch
+# JAX vs. PyTorch
